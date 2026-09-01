@@ -1,1 +1,1 @@
-# bipin24cr-os
+# bipinos
